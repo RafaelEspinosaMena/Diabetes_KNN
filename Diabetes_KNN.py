@@ -1,4 +1,5 @@
 # Rafael Espinosa Mena
+# rafaelespinosa4158@gmail.com
 # Diabetes KNN
 
 import pandas as pd
